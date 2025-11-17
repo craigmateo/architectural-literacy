@@ -1,7 +1,7 @@
 # Map of Computer Science — Structured Outline (Expanded)
 *A conceptual, bird’s-eye overview based on the visual map by Dominic Walliman.*
 
-![Map of Computer Science](https://www.informationisbeautifulawards.com/showcase/2333-map-of-computer-science)
+![Map of Computer Science](assets/comp_sci_map.png)
 
 ---
 
