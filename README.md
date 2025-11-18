@@ -1,7 +1,6 @@
 # Map of Computer Science — Structured Outline (Expanded)
 *A conceptual, bird’s-eye overview based on the visual map by Dominic Walliman.*
 
-```markdown
 ```mermaid
 mindmap
   root((Computer Science))
@@ -113,7 +112,7 @@ mindmap
         Penetration_Testing
         Vulnerabilities
         Security_Models
----
+```
 
 ## 1. Theoretical Computer Science
 
