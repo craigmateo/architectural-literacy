@@ -1,5 +1,5 @@
-# Map of Computer Science — Structured Outline (Expanded)
-*A conceptual, bird’s-eye overview based on the visual map by Dominic Walliman.*
+# Map of Computer Science — Outline
+*A conceptual, bird’s-eye overview (based on the visual map by Dominic Walliman).*
 
 ```mermaid
 mindmap
