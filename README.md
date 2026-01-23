@@ -1,6 +1,10 @@
 # Map of Computer Science — Outline
 *A conceptual, bird’s-eye overview (based on the visual map by Dominic Walliman).*
 
+![Map of Computer Science](assets/comp_sci_map.png)
+
+*Conceptual overview of computer science domains and subfields.*
+
 ```mermaid
 mindmap
   root((Computer Science))
